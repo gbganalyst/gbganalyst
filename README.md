@@ -33,23 +33,23 @@
 
 
 ## My Contributions
+***
 
-
-## R programming
+### R programming
 
 - **ralger R package**: The goal of `ralger` is to facilitate web scraping in R. The user has the ability to extract a vector with `scrap()`, a tidy dataframe using `tidy_scrap()`, a table with `table_scrap()` and web links with `weblink_scrap()`. <https://cran.r-project.org/web/packages/ralger/index.html>  
 
 - **Big Book of R**:  The biggest collection of R books. <https://www.bigbookofr.com>
 
 
-## AI and Python
+### AI and Python
 
 
 - **Co-Editor**: Beginners' Artificial Intelligence & Python Programming Book. <https://www.datasciencenigeria.org/ai-beginners/> 
 
 
 
-## Data repository
+### Data repository
 
 - COVID-19, healthcare facilities, and economic related data in Nigeria,  Mendeley Data. DOI: http://dx.doi.org/10.17632/8h5rtbbx7m.2 
 
@@ -59,7 +59,6 @@
 <h2> Connect with me <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="100px"> </h2>
 <a href = 'https://https://www.linkedin.com/in/ezekiel-ogundepo/'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/linked-in-alt.svg"/></a> 
 <a href = 'https://www.twitter.com/gbganalyst'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/twitter.svg"/></a> 
-<a href = 'https://medium.com/@olalekan.akinsande'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/medium.svg"/></a> 
 <a href = 'https://www.github.com/gbganalyst'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/github.svg"/></a> 
 
 
