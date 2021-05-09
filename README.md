@@ -4,7 +4,7 @@
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=gbganalyst.gbganalyst)
 
 
-<div size='20px'> Hi! My name is Ezekiel Adebayo Ogundepo and I am an RStudio Tidyverse certified instructor :smile:. You can find more about me on my [website](https://bit.ly/gbganalyst).
+Hi! My name is Ezekiel Adebayo Ogundepo and I am an RStudio Tidyverse certified instructor :smile:. You can find more about me on my [website](https://bit.ly/gbganalyst).
 
 
 
@@ -33,7 +33,7 @@
 
 
 ## My Contributions
-***
+
 
 ### R programming
 
