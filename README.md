@@ -45,7 +45,7 @@ Hi! My name is Ezekiel Adebayo Ogundepo and I am an RStudio Tidyverse certified 
 ### AI and Python
 
 
-- **Co-Editor**: Beginners' Artificial Intelligence & Python Programming Book. <https://www.datasciencenigeria.org/ai-beginners/> 
+- **Co-Editor**: Beginners' Artificial Intelligence & Python Programming Book. <https://www.datasciencenigeria.org/ai-beginners> 
 
 
 
@@ -57,8 +57,8 @@ Hi! My name is Ezekiel Adebayo Ogundepo and I am an RStudio Tidyverse certified 
 
 
 <h2> Connect with me <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="100px"> </h2>
-<a href = 'https://https://www.linkedin.com/in/ezekiel-ogundepo/'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/linked-in-alt.svg"/></a> 
 <a href = 'https://www.twitter.com/gbganalyst'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/twitter.svg"/></a> 
+<a href = 'https://https://www.linkedin.com/in/ezekiel-ogundepo/'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/linked-in-alt.svg"/></a> 
 <a href = 'https://www.github.com/gbganalyst'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/github.svg"/></a> 
 
 
@@ -66,7 +66,7 @@ Hi! My name is Ezekiel Adebayo Ogundepo and I am an RStudio Tidyverse certified 
 <h2> My GitHub Stats <img src='https://media1.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif?cid=ecf05e47x2g034i9pzwtzzsd3xgg2w9nr94t4tflbbgo3008&rid=giphy.gif' width='32px'> </h2>
 
 <a href="https://github.com/gbganalyst/github-readme-stats">
-  <img align="left" src="https://github-readme-stats.vercel.app/api?username=gbganalyst&count_private=true&show_icons=true&theme=radical" />
+  <img align="left" src="https://github-readme-stats.vercel.app/api?username=gbganalyst&count_private=true&show_icons=true&theme=radical"/>
 </a>
 <a href="https://github.com/gbganalyst/convoychat">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gbganalyst"/>
