@@ -65,8 +65,6 @@ Hi! My name is Ezekiel Adebayo Ogundepo and I am an RStudio Tidyverse certified 
 
 <h2> My GitHub Stats <img src='https://media1.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif?cid=ecf05e47x2g034i9pzwtzzsd3xgg2w9nr94t4tflbbgo3008&rid=giphy.gif' width='32px'> </h2>
 
-
-## My GitHub Stats 📊
 <a href="https://github.com/gbganalyst/github-readme-stats">
   <img align="left" src="https://github-readme-stats.vercel.app/api?username=gbganalyst&count_private=true&show_icons=true&theme=radical" />
 </a>
