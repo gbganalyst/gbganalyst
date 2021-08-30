@@ -16,11 +16,11 @@ Hi! My name is Ezekiel Adebayo Ogundepo and I am a certified RStudio instructor 
 
 - 🔭 I’m an innovator and inventor.
 
-- 🌱 I work with Data Science Nigeria as a data scientist. I also with Virus Outbreak Data Network (VODAN Africa and Asia) as a Data Steward.
+- 🌱 I work with Data Science Nigeria as a data scientist. I also work with the Virus Outbreak Data Network (VODAN Africa and Asia) as a Data Steward.
 
 - 👯 I’m open to collaborate on Projects and StartUps.   
 
-- 💬 Talk to me about R and Python for Everyone, Modern Statistics, Data Analysis and Reporting, Geospatial Analytics, Data Science, Business Analytics, Data Engineering, Digital Transformation, and Open Source.
+- 💬 Talk to me about R and Python for Everyone, Modern Statistics, Data Analysis, Visualization, and Reporting, Geospatial Analytics, Data Science, Business Analytics, Data Engineering, Digital Transformation, and Open Source.
 
 <h2> Skills <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px> </h2>
 
