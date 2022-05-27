@@ -37,6 +37,8 @@ Hi! My name is Ezekiel Adebayo Ogundepo and I am a certified RStudio instructor 
 
 ### R programming
 
+- **[Mastering Shiny Solutions](https://mastering-shiny-solutions.org/)**: A book that offers solutions to the exercises from Hadley Wickham’s book [Mastering Shiny](https://mastering-shiny.org/). 
+
 - **ralger R package**: The goal of `ralger` is to facilitate web scraping in R. The user has the ability to extract a vector with `scrap()`, a tidy dataframe using `tidy_scrap()`, a table with `table_scrap()` and web links with `weblink_scrap()`. <https://cran.r-project.org/web/packages/ralger/index.html>  
 
 - **Big Book of R**:  The biggest collection of R books. <https://www.bigbookofr.com>
@@ -44,12 +46,7 @@ Hi! My name is Ezekiel Adebayo Ogundepo and I am a certified RStudio instructor 
 
 ### AI and Python
 
-
-- **Co-Editor**: Beginners’ Artificial Intelligence & Python Programming Book for Primary and Junior Secondary.
-
-<https://www.datasciencenigeria.org/ai-beginners> 
-
-
+- **Co-Editor**: Beginners’ Artificial Intelligence & Python Programming Book for Primary and Junior Secondary. <https://www.datasciencenigeria.org/ai-beginners> 
 
 ### Data repository
 
@@ -58,6 +55,12 @@ Hi! My name is Ezekiel Adebayo Ogundepo and I am a certified RStudio instructor 
 - Location-based Tweets in Africa on COVID-19 Pandemic, Mendeley Data.  DOI: http://dx.doi.org/10.17632/c8x5tpvzmk.1
 
 ## Publications
+
+- Folorunso, S.O., **Ogundepo, E.A.**, Awotunde, J.B., Ayo, F.E., Banjo, O.O., Taiwo, A.I. (2022). A Multi-Step Predictive Model for COVID-19 Cases in Nigeria Using Machine Learning. In: Hassan, S.A., Mohamed, A.W., Alnowibet, K.A. (eds) Decision Sciences for COVID-19. International Series in Operations Research & Management Science, vol 320. Springer, Cham. https://doi.org/10.1007/978-3-030-87019-5_7
+
+
+- Folorunso, S. O., Awotunde, J. B., Banjo, O. O., **Ogundepo, E. A.**, & Adeboye, N. O. (2022). Comparison of Active COVID-19 Cases per Population Using Time-Series Models. International Journal of E-Health and Medical Communications (IJEHMC), 13(2), 1-21. http://doi.org/10.4018/IJEHMC.20220701.oa6
+
 
 - Folorunso, S., **Ogundepo, E. A.**, Basajja, M., Awotunde, J. B., Kawu, A.A., Abdullahi, I., & Oladipo, F. O. (2021). Nigeria COVID‐19 FAIR data analytics with machine learning models. Data intelligence. Special Issue. Forthcoming. 
   
