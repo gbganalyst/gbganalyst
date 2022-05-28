@@ -39,14 +39,14 @@ Hi! My name is Ezekiel Adebayo Ogundepo and I am a certified RStudio instructor 
 
 - **[Mastering Shiny Solutions](https://mastering-shiny-solutions.org/)**: A book that offers solutions to the exercises from Hadley Wickham’s book [Mastering Shiny](https://mastering-shiny.org/). 
 
-- **ralger R package**: The goal of `ralger` is to facilitate web scraping in R. The user has the ability to extract a vector with `scrap()`, a tidy dataframe using `tidy_scrap()`, a table with `table_scrap()` and web links with `weblink_scrap()`. <https://cran.r-project.org/web/packages/ralger/index.html>  
+- **[ralger R package](https://cran.r-project.org/web/packages/ralger/index.html)**: The goal of `ralger` is to facilitate web scraping in R. The user has the ability to extract a vector with `scrap()`, a tidy dataframe using `tidy_scrap()`, a table with `table_scrap()` and web links with `weblink_scrap()`.
 
-- **Big Book of R**:  The biggest collection of R books. <https://www.bigbookofr.com>
+- **[Big Book of R](https://www.bigbookofr.com)**:  The biggest collection of R books. 
 
 
 ### AI and Python
 
-- **Co-Editor**: Beginners’ Artificial Intelligence & Python Programming Book for Primary and Junior Secondary. <https://www.datasciencenigeria.org/ai-beginners> 
+- **[Co-Editor](https://www.datasciencenigeria.org/ai-beginners)**: Beginners’ Artificial Intelligence & Python Programming Book for Primary and Junior Secondary.  
 
 ### Data repository
 
