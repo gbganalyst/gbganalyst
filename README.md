@@ -56,6 +56,8 @@ Hi! My name is Ezekiel Adebayo Ogundepo and I am a certified RStudio instructor 
 
 ## Publications
 
+- OGBUJU E., BANJO O., **OGUNDEPO E.A.**, FOLORUNSO S., OLADIPO F. A DATASET OF LOCATION-BASED TWEETS IN AFRICA ON COVID-19 OUTBREAK. The Journal of Information Systems & Operations Management, 16(1), pp. 200-208.
+
 - Folorunso, S.O., **Ogundepo, E.A.**, Awotunde, J.B., Ayo, F.E., Banjo, O.O., Taiwo, A.I. (2022). A Multi-Step Predictive Model for COVID-19 Cases in Nigeria Using Machine Learning. In: Hassan, S.A., Mohamed, A.W., Alnowibet, K.A. (eds) Decision Sciences for COVID-19. International Series in Operations Research & Management Science, vol 320. Springer, Cham. https://doi.org/10.1007/978-3-030-87019-5_7
 
 
