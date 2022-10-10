@@ -1,12 +1,7 @@
 <h1> Welcome to GBG Analyst Github Profile! <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 50px> </h1>
 <p align='center'>
 
-![visitors](https://visitor-badge.glitch.me/badge?page_id=gbganalyst.gbganalyst)
-
-
 Hi! My name is Ezekiel Adebayo Ogundepo and I am a certified RStudio instructor :smile:. You can find more about me on my [website](https://bit.ly/gbganalyst).
-
-
 
 <h2> About Me</h2>
 
