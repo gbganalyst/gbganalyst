@@ -11,11 +11,11 @@ Hi! My name is Ezekiel Adebayo Ogundepo and I am a certified RStudio instructor 
 
 - 🔭 I’m an innovator and inventor.
 
-- 🌱 I work with Data Science Nigeria as a data scientist. I also work with the Virus Outbreak Data Network (VODAN Africa and Asia) as a Data Steward.
+- 🌱 I work with 54gene as a senior data specialist. I also work with the Virus Outbreak Data Network (VODAN Africa and Asia) as a Data Steward.
 
 - 👯 I’m open to collaborate on Projects and StartUps.   
 
-- 💬 Talk to me about R and Python for Everyone, Modern Statistics, Data Analysis, Visualization, and Reporting, Geospatial Analytics, Data Science, Business Analytics, Data Engineering, Digital Transformation, and Open Source.
+- 💬 Talk to me about R and Python for Everyone, Data Science, Business Analytics, Data Engineering, Automation, Research Software Engineering (RSE), and Open Source.
 
 <h2> Skills <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px> </h2>
 
@@ -59,9 +59,11 @@ Hi! My name is Ezekiel Adebayo Ogundepo and I am a certified RStudio instructor 
 - Folorunso, S. O., Awotunde, J. B., Banjo, O. O., **Ogundepo, E. A.**, & Adeboye, N. O. (2022). Comparison of Active COVID-19 Cases per Population Using Time-Series Models. International Journal of E-Health and Medical Communications (IJEHMC), 13(2), 1-21. http://doi.org/10.4018/IJEHMC.20220701.oa6
 
 
-- Folorunso, S., **Ogundepo, E. A.**, Basajja, M., Awotunde, J. B., Kawu, A.A., Abdullahi, I., & Oladipo, F. O. (2021). Nigeria COVID‐19 FAIR data analytics with machine learning models. Data intelligence. Special Issue. Forthcoming. 
+- Folorunso, S., **Ogundepo, E.**, Basajja, M., Awotunde, J., Kawu, A., Oladipo, F., & Abdullahi, I. (2022). FAIR machine learning model pipeline implementation of COVID-19 data. Data Intelligence, 1-32.
   
-- Oladipo, F.O., Folorunso, S., **Ogundepo, E. A.**, Osigwe, E., & Akindele, A.T. (2021). Curricula Development for FAIR Data Stewardship. Data Intelligence. Special Issue. Forthcoming 
+- Oladipo, Francisca, Sakinat Folorunso, **Ezekiel Ogundepo**, Obinna Osigwe, and Akinyinka Akindele. "Curriculum development for FAIR data stewardship." Data Intelligence (2022): 1-42. 
+
+- Ghardallou, M., Wirtz, M., Folorunso, S., Touati, Z., **Ogundepo, E.**, Smits, K., ... & van Reisen, M. (2022). Expanding Non-Patient COVID-19 Data: Towards the FAIRification of Migrants' Data in Tunisia, Libya and Niger. Data Intelligence, 1-24.
 
 - Adekanmbi, Olubayo; Oyewusi, Wuraola Fisayo; **Ogundepo, Ezekiel Adebayo** (2020). Real-Time Crowdsourcing of Health Data in a Low-Income Country: A Case Study of Human Data Supply on Malaria First-Line Treatment Policy Tracking in Nigeria. Proceedings of the Crowd Science Workshop: Remoteness, Fairness, and Mechanisms as Challenges of Data Supply by Humans for Automation co-located with 34th Conference on Neural Information Processing Systems (NeurIPS), Vancouver, BC, Canada (Online), http://ceur-ws.org/Vol-2736/paper3.pdf
 
