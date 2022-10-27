@@ -11,8 +11,10 @@ Hi! My name is Ezekiel Adebayo Ogundepo and I am a certified RStudio instructor 
 
 - 🔭 I’m an innovator and inventor.
 
-- 🌱 I work with 54gene as a senior data specialist. I also work with the Virus Outbreak Data Network (VODAN Africa and Asia) as a Data Steward.
+- 😄 I enjoy data wrangling, building tools, and automating processes.
 
+- 🌱 I work with 54gene as a senior data specialist. I also work with the Virus Outbreak Data Network (VODAN Africa and Asia) as a Data Steward.
+ 
 - 👯 I’m open to collaborate on Projects and StartUps.   
 
 - 💬 Talk to me about R and Python for Everyone, Data Science, Business Analytics, Data Engineering, Automation, Research Software Engineering (RSE), and Open Source.
