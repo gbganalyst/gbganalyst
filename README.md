@@ -31,19 +31,35 @@ Hi! My name is Ezekiel Adebayo Ogundepo and I am a certified RStudio instructor 
 
 ## Contributions
 
-
 ### R programming
 
-- **[Mastering Shiny Solutions](https://mastering-shiny-solutions.org/)**: A book that offers solutions to the exercises from Hadley Wickham’s book [Mastering Shiny](https://mastering-shiny.org/). 
+- **[bulkreadr package](https://github.com/gbganalyst/bulkreadr)**: 
 
-- **[ralger R package](https://cran.r-project.org/web/packages/ralger/index.html)**: The goal of `ralger` is to facilitate web scraping in R. The user has the ability to extract a vector with `scrap()`, a tidy dataframe using `tidy_scrap()`, a table with `table_scrap()` and web links with `weblink_scrap()`.
+bulkreadr is an R package that simplifies and streamlines the process of reading and processing large volumes of data. It allows users to efficiently read multiple sheets from Microsoft Excel/Google Sheets workbooks and multiple CSV files from a directory.  
 
-- **[Big Book of R](https://www.bigbookofr.com)**:  The biggest collection of R books. 
+- **[forstringr package](https://github.com/gbganalyst/forstringr)**: 
+
+Forstringr enables complex string manipulation in R especially to those more familiar with LEFT(), RIGHT(), and MID() functions in Microsoft Excel. The package combines the power of stringr with other manipulation packages such as dplyr and tidyr.  
+
+
+- **[Mastering Shiny Solutions Book](https://mastering-shiny-solutions.org/)**:
+
+A book that offers solutions to the exercises from Hadley Wickham’s book [Mastering Shiny](https://mastering-shiny.org/). 
+
+- **[ralger R package](https://cran.r-project.org/web/packages/ralger/index.html)**: 
+
+The goal of `ralger` is to facilitate web scraping in R. The user has the ability to extract a vector with `scrap()`, a tidy dataframe using `tidy_scrap()`, a table with `table_scrap()` and web links with `weblink_scrap()`.
+
+- **[Big Book of R](https://www.bigbookofr.com)**:  
+
+The biggest collection of R books. 
 
 
 ### AI and Python
 
-- **[Co-Editor](https://www.datasciencenigeria.org/ai-beginners)**: Beginners’ Artificial Intelligence & Python Programming Book for Primary and Junior Secondary.  
+- **[Co-Editor](https://www.datasciencenigeria.org/ai-beginners)**: 
+
+Beginners’ Artificial Intelligence & Python Programming Book for Primary and Junior Secondary.  
 
 ### Data repository
 
@@ -53,7 +69,9 @@ Hi! My name is Ezekiel Adebayo Ogundepo and I am a certified RStudio instructor 
 
 ## Publications
 
-- OGBUJU E., BANJO O., **OGUNDEPO E.A.**, FOLORUNSO S., OLADIPO F. A DATASET OF LOCATION-BASED TWEETS IN AFRICA ON COVID-19 OUTBREAK. The Journal of Information Systems & Operations Management, 16(1), pp. 200-208.
+- **Ogundepo, E. A.**, & Yahya, W. B. (2023). Performance analysis of supervised classification models on heart disease prediction. Innovations in Systems and Software Engineering, 1-16. doi: https://doi.org/10.1007/s11334-022-00524-9
+
+- OGBUJU E., BANJO O., **OGUNDEPO E.A.**, FOLORUNSO S., OLADIPO F. (2022). A DATASET OF LOCATION-BASED TWEETS IN AFRICA ON COVID-19 OUTBREAK. The Journal of Information Systems & Operations Management, 16(1), pp. 200-208.
 
 - Folorunso, S.O., **Ogundepo, E.A.**, Awotunde, J.B., Ayo, F.E., Banjo, O.O., Taiwo, A.I. (2022). A Multi-Step Predictive Model for COVID-19 Cases in Nigeria Using Machine Learning. In: Hassan, S.A., Mohamed, A.W., Alnowibet, K.A. (eds) Decision Sciences for COVID-19. International Series in Operations Research & Management Science, vol 320. Springer, Cham. https://doi.org/10.1007/978-3-030-87019-5_7
 
