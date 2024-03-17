@@ -33,11 +33,11 @@ Hi! My name is Ezekiel Adebayo Ogundepo and I am a certified RStudio instructor 
 
 ### R programming
 
-- **[bulkreadr package](https://github.com/gbganalyst/bulkreadr)**: 
+- **[bulkreadr package](https://gbganalyst.github.io/bulkreadr)**: 
 
 bulkreadr is an R package that simplifies and streamlines the process of reading and processing large volumes of data. It allows users to efficiently read multiple sheets from Microsoft Excel/Google Sheets workbooks and multiple CSV files from a directory.  
 
-- **[forstringr package](https://github.com/gbganalyst/forstringr)**: 
+- **[forstringr package](https://gbganalyst.github.io/forstringr)**: 
 
 Forstringr enables complex string manipulation in R especially to those more familiar with LEFT(), RIGHT(), and MID() functions in Microsoft Excel. The package combines the power of stringr with other manipulation packages such as dplyr and tidyr.  
 
@@ -46,7 +46,7 @@ Forstringr enables complex string manipulation in R especially to those more fam
 
 A book that offers solutions to the exercises from Hadley Wickham’s book [Mastering Shiny](https://mastering-shiny.org/). 
 
-- **[ralger R package](https://cran.r-project.org/web/packages/ralger/index.html)**: 
+- **[ralger R package](https://feddelegrand7.github.io/ralger/)**: 
 
 The goal of `ralger` is to facilitate web scraping in R. The user has the ability to extract a vector with `scrap()`, a tidy dataframe using `tidy_scrap()`, a table with `table_scrap()` and web links with `weblink_scrap()`.
 
