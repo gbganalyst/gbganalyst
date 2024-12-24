@@ -1,7 +1,7 @@
-<h1> Welcome to GBG Analyst Github Profile! <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 50px> </h1>
+<h1> Welcome to GBG Analyst GitHub Profile! <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 50px> </h1>
 <p align='center'>
 
-Hi! My name is Ezekiel Adebayo Ogundepo and I am a certified RStudio instructor :smile:. You can find more about me on my [website](https://bit.ly/gbganalyst).
+Hi! My name is Ezekiel Adebayo Ogundepo and I am a certified RStudio instructor :smile:. You can find more about me on my [website](https://gbganalyst.github.io/).
 
 <h2> About Me</h2>
 
@@ -15,7 +15,7 @@ Hi! My name is Ezekiel Adebayo Ogundepo and I am a certified RStudio instructor 
 
 - 🌱 I work with 54gene as a senior data specialist. I also work with the Virus Outbreak Data Network (VODAN Africa and Asia) as a Data Steward.
  
-- 👯 I’m open to collaborate on Projects and StartUps.   
+- 👯 I’m open to collaborating on Projects and StartUps.   
 
 - 💬 Talk to me about R and Python for Everyone, Data Science, Business Analytics, Data Engineering, Automation, Research Software Engineering (RSE), and Open Source.
 
@@ -39,7 +39,7 @@ bulkreadr is an R package that simplifies and streamlines the process of reading
 
 - **[forstringr package](https://gbganalyst.github.io/forstringr)**: 
 
-Forstringr enables complex string manipulation in R especially to those more familiar with LEFT(), RIGHT(), and MID() functions in Microsoft Excel. The package combines the power of stringr with other manipulation packages such as dplyr and tidyr.  
+Forstringr enables complex string manipulation in R, especially for those more familiar with LEFT(), RIGHT(), and MID() function in Microsoft Excel. The package combines the power of `stringr` with other manipulation packages such as `dplyr` and `tidyr`.  
 
 
 - **[Mastering Shiny Solutions Book](https://mastering-shiny-solutions.org/)**:
@@ -48,7 +48,7 @@ A book that offers solutions to the exercises from Hadley Wickham’s book [Mast
 
 - **[ralger R package](https://feddelegrand7.github.io/ralger/)**: 
 
-The goal of `ralger` is to facilitate web scraping in R. The user has the ability to extract a vector with `scrap()`, a tidy dataframe using `tidy_scrap()`, a table with `table_scrap()` and web links with `weblink_scrap()`.
+The goal of `ralger` is to facilitate web scraping in R. The user has the ability to extract a vector with `scrap()`, a tidy data frame using `tidy_scrap()`, a table with `table_scrap()` and web links with `weblink_scrap()`.
 
 - **[Big Book of R](https://www.bigbookofr.com)**:  
 
@@ -91,7 +91,7 @@ Beginners’ Artificial Intelligence & Python Programming Book for Primary and J
 
 - **Ogundepo, E. A.** & Fokoué, E. (2020). An empirical demonstration of the no free lunch theorem. *Mathematics for Applications*, 8(2), 173–188. doi: https://doi.org/10.13164/ma.2019.11
 
-- Akande, O.K., Olagunju, R.E., Aremu, S.C., & **Ogundepo, E.A.** (2018). Exploring Factors Influencing of Project Management Success in Public Building Projects in Nigeria. *YBL Journal of Built Environment*, 6(1), 47-62. doi: https://doi.org/10.2478/jbe-2018-0004
+- Akande, O.K., Olagunju, R.E., Aremu, S.C., & **Ogundepo, E.A.** (2018). Exploring Factors Influencing Project Management Success in Public Building Projects in Nigeria. *YBL Journal of Built Environment*, 6(1), 47-62. doi: https://doi.org/10.2478/jbe-2018-0004
 
 <h2> Connect with me <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="100px"> </h2>
 <a href = 'https://www.twitter.com/gbganalyst'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/twitter.svg"/></a> 
